@@ -1,0 +1,16 @@
+{
+  "name": "tondeuse",
+  "version": "1.1.0",
+  "author": "Najlaa El Jaafari",
+  "license": "MIT",
+  "main": "lib/mowitnow.js",
+  "bin": {
+    "mowit": "./bin/mowit.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
